@@ -1,0 +1,2 @@
+# .github
+Simplicity in motion
