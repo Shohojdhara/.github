@@ -81,8 +81,8 @@ You can reach out via:
 We’re a small but passionate team working on Shohojdhara projects.
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME" style="margin: 20px; text-decoration:none;">
-    <img src="https://github.com/YOUR_USERNAME.png" width="100" height="100" style="border-radius:50%;" /><br/>
+  <a href="https://github.com/liimonx" style="margin: 20px; text-decoration:none;">
+    <img src="https://github.com/liimonx.png" width="100" height="100" style="border-radius:50%;" /><br/>
     <b>Limon</b><br/>
     Lead Developer
   </a>
